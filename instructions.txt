@@ -1,0 +1,12 @@
+heroku login
+
+ccreporter@aol.com
+chris&garry
+
+
+git add .
+git commit -am "make it better"
+git push heroku master
+
+
+webpack --watch
